@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "猪猪",
+   *    name: "sterling",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ocGed57xUn4eW0MPqeDwT-ITUD6g",
    *    // 你想对他发送的模板消息的模板ID
@@ -51,7 +51,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  CALLBACK_TEMPLATE_ID: "B4LK_Pa-aBdise2sDzQiJHi9F5gDqhlRbqTh3GyTzpE",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -59,7 +59,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "gh_feb176c49e78",
+      id: "ocGed57xUn4eW0MPqeDwT-ITUD6g",
     }, 
   ],
     
