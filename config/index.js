@@ -31,9 +31,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "猪猪",
+      name: "ysterling",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ocGed57xUn4eW0MPqeDwT-ITUD6g",
+      id: "ocGed55wmhDFTf9t6govislfPkrU",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "B4LK_Pa-aBdise2sDzQiJHi9F5gDqhlRbqTh3GyTzpE",
       // 所在省份
@@ -57,7 +57,7 @@ export const config = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "自己",
+      name: "sterling",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ocGed57xUn4eW0MPqeDwT-ITUD6g",
     }, 
