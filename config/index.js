@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "猪猪",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
@@ -93,9 +93,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "湖北",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "武汉",
 
   /** 重要节日相关 */
 
@@ -106,7 +106,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
+    {"type": "生日", "name": "猪猪", "year": "1996", "date": "01-04"},
     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
